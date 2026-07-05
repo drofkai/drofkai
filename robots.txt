@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drofkai.netlify.app/sitemap.xml
+Sitemap: https://drofkai.github.io/drofkai/sitemap.xml
